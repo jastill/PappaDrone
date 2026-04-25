@@ -71,3 +71,9 @@ https://www.getfpv.com/motors.html?srsltid=AfmBOoqK8aWPhWoZO1rWNaTQaPQ-HXnPbM2EV
 ### Joshua Bardwell
 
 https://www.youtube.com/@JoshuaBardwell
+
+#### Build you first drone
+
+The FAA can't touch this! Sub250g drone build for total beginners!
+
+https://www.youtube.com/watch?v=g26ASthCzvs
